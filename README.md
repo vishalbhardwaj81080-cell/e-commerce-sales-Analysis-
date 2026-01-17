@@ -8,9 +8,9 @@ The main objective is to understand the data, clean it, analyze patterns, and ex
 
 EDA helps in identifying trends, customer behavior, sales performance, and potential data quality issues before building any machine learning or forecasting models.
 
-⸻
 
  Dataset Description
+ 
 	•	Dataset Name: E-commerce Sales Dataset
 	•	Format: CSV
 	•	Nature: Real-world inspired, messy dataset
@@ -21,7 +21,6 @@ EDA helps in identifying trends, customer behavior, sales performance, and poten
 	•	Sales & Revenue
 	•	Dates & Categories
 
-⸻
 
  Data Cleaning Steps Performed
 
@@ -34,7 +33,6 @@ The dataset was not clean initially, so the following data cleaning steps were a
 	•	Handled zero / invalid values
 	•	Checked and treated outliers
 
-⸻
 
  Exploratory Data Analysis (EDA)
 
@@ -46,7 +44,6 @@ During EDA, the following analysis was performed:
 	•	Customer behavior analysis
 	•	Product performance analysis
 
-⸻
 
  Visualizations Used
 
@@ -58,7 +55,6 @@ To better understand the data, multiple visualizations were created using Matplo
 	•	Pie charts – Sales contribution
 	•	Count plots – Frequency analysis
 
-⸻
 
  Key Insights
 
@@ -69,7 +65,6 @@ Some important insights derived from the analysis:
 	•	Some customers are high-value repeat buyers
 	•	Data quality issues significantly affect analysis if not cleaned properly
 
-⸻
 
  Tools & Technologies Used
 	•	Python
